@@ -1,7 +1,7 @@
 # Coordinate Calculator 
 
--- This is a simple website for calculating your present coordinates.
+This is a simple website for calculating your present coordinates.
 
--- Made with React.js
+Made with React.js
 
--- Hosted at : https://coordinate-calci.web.app/
+Hosted at : https://coordinate-calci.web.app/
